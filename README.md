@@ -1,6 +1,6 @@
 # Projeto Nikel - Codai 2.0 - GrowDev
 
-Este é um projeto de conclusão do [CodaÍ 2.0] (https://www.plataforma.growdev.com.br)  que utiliza HTML, CSS e Javascript para a criação de uma carteira digital. 
+Este é um projeto de conclusão do [CodaÍ 2.0](https://www.plataforma.growdev.com.br)  que utiliza HTML, CSS e Javascript para a criação de uma carteira digital. 
 
 
-This is a [CodaÍ 2.0] (https://www.plataforma.growdev.com.br) completion project that uses HTML, CSS and Javascript to create a digital wallet.
+This is a [CodaÍ 2.0](https://www.plataforma.growdev.com.br) completion project that uses HTML, CSS and Javascript to create a digital wallet.
